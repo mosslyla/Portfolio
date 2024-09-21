@@ -1,0 +1,15 @@
+<DOCTYPE html>
+<html>
+<head>
+	<title>Projects</title>
+</head>
+<body>
+	<div>
+		<h3>My Projects</h3>
+			<img src="https://via.imagepath.com/300"/>
+			<img src="https://via.imagepath.com/300"/>
+			<img src="https://via.imagepath.com/300"/>
+			<img src="https://via.imagepath.com/300"/>
+	</div>
+</body>
+</html>
